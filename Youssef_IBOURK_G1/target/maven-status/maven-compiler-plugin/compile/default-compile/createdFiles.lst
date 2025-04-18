@@ -1,0 +1,14 @@
+com\example\controle\Projection\CampagneResume.class
+com\example\controle\controller\CampagneController.class
+com\example\controle\configuration\SwaggerConfig.class
+com\example\controle\controller\DonController.class
+com\example\controle\controller\TestController.class
+com\example\controle\services\ServiceCampagne.class
+com\example\controle\DTO\DonDTO.class
+com\example\controle\ControleApplication.class
+com\example\controle\entity\Campagne.class
+com\example\controle\Exception\GlobalExceptionHandler.class
+com\example\controle\entity\Donation.class
+com\example\controle\services\ServiceDon.class
+com\example\controle\repository\DonationRepository.class
+com\example\controle\repository\CampagneRepository.class
